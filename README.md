@@ -22,4 +22,4 @@
 ## Hosted App
 Live app -> https://ecommercetshirts.netlify.app [![Netlify Status](https://api.netlify.com/api/v1/badges/81823404-284f-401d-97e9-29d02138cf1a/deploy-status)](https://app.netlify.com/sites/ecommercetshirts/deploys)
 
-## Demo
+## Demo Image - Rendered View

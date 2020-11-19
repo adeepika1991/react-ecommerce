@@ -23,3 +23,8 @@
 Live app -> https://ecommercetshirts.netlify.app [![Netlify Status](https://api.netlify.com/api/v1/badges/81823404-284f-401d-97e9-29d02138cf1a/deploy-status)](https://app.netlify.com/sites/ecommercetshirts/deploys)
 
 ## Demo Image - Rendered View
+<img src='public/snap1.JPG' raw=true alt='assignment demo 1'/>
+
+
+## Demo Image - Cart View
+<img src='public/snaop2.JPG' raw=true alt='assignment demo'/>

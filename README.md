@@ -27,6 +27,6 @@ Live app -> https://ecommercetshirts.netlify.app [![Netlify Status](https://api.
 
 
 ## Demo Image - Cart View
-<img src='public/snaop2.JPG' raw=true alt='assignment demo'/>
+<img src='public/snap2.JPG' raw=true alt='assignment demo'/>
 
 
